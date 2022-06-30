@@ -7,5 +7,7 @@ Sample Text
 
 ## Section 1
 Some more example content here...  
-This is a testing repository for messing around with git
+This is a testing repository for messing around with git  
+
+![image of computer](https://images-na.ssl-images-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif)
 
