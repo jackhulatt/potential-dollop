@@ -1,1 +1,3 @@
-print(7*5)
+math = Potato
+print(7*5 + math)
+
