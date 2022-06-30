@@ -13,5 +13,4 @@ This is a testing repository for messing around with git
 
 ![thanos car](https://i.kym-cdn.com/entries/icons/mobile/000/027/072/thanos_car_2.jpg)
 
-Potato
-
+Potato7
